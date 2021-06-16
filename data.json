@@ -1,0 +1,40 @@
+{
+  "width": "100%",
+  "height": "600",
+  "symbolsGroups": [
+    {
+    "symbols": [
+      {
+        "proName": "FOREXCOM:SPXUSD",
+        "title": "S&P 500"
+      },
+      {
+        "proName": "FOREXCOM:NSXUSD",
+        "title": "Nasdaq 100"
+      },
+      {
+        "description": "FTSE 100",
+        "proName": "CURRENCYCOM:UK100"
+      },
+      {
+        "description": "DAX",
+        "proName": "XETR:DAX"
+      },
+      {
+        "description": "S&P Global",
+        "proName": "NYSE:OOI"
+      },
+      {
+        "description": "Pharmaceutical",
+        "proName": "AMEX:XPH"
+      },
+      {
+        "description": "Tech",
+        "proName": "AMEX:VGT"
+      }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "locale": "en"
+}
